@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.fse.assessment.iml" filepath="$PROJECT_DIR$/.idea/modules/com.fse.assessment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.fse.assessment.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.fse.assessment.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.fse.assessment.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.fse.assessment.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fse-assessment-5.iml" filepath="$PROJECT_DIR$/.idea/fse-assessment-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fse-assessment-5.com.fse.assessment.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fse-assessment-5.com.fse.assessment.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fse-assessment-5.com.fse.assessment.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fse-assessment-5.com.fse.assessment.test.iml" />
+    </modules>
+  </component>
+</project>
